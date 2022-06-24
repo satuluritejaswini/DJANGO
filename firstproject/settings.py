@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-k0nz9%mcwf=ko9)qgs_3xcmdd1k51n#tf-=a!eb*2y)#yz6+fv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pdfmergerproj.herokuapp.com']
 
 
 # Application definition
